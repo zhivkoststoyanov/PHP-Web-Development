@@ -1,0 +1,4 @@
+INSERT INTO minions (NAME, AGE, TOWN_ID) VALUES ('Kevin', '22', '1');
+INSERT INTO minions (NAME, AGE, TOWN_ID) VALUES ('Bob', '15', '3');
+INSERT INTO minions (NAME, AGE, TOWN_ID) VALUES ('Steward', 'NULL', '2');
+
